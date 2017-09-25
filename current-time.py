@@ -1,5 +1,6 @@
 # Current time
 
+# Import datetime library to use time functions
 import datetime
 now = datetime.datetime.now()
 print ("Current data and time: ")
