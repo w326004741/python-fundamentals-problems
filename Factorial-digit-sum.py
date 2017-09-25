@@ -1,18 +1,12 @@
 #factorial-digit-sum
 
-def fact(n):
-    if n == 0 or n == 1:
-        return 1
-    else:
-        return (n*fact(n-1))
+import math
+
+fact = str(math.factorial(100))
+resultat = 0
+for i in fact:
+    resultat += int(i)
+
+print(resultat)
 
 
-    numbers = list(str(fact(100))
-    res = 0
-    n = 0 
-    for number in numbers:
-        summed = list(map(int,numbers))
-        res += summed[n]
-        n+=1
-
-print("Factorial sum of 100 result: ", res)
