@@ -7,8 +7,6 @@
 list1 = []
 list2 = []
 list3 = []
-
-
 print("Please enter 3 numbers for each list")
 
 print("List 1")
@@ -23,7 +21,6 @@ for i in range (0,3):
 
 list3 = list1 + list2 # Merge list1 and list2
 
-print()
 print("List 1: " + str(list1))
 print("List 2: " + str(list2))
 print("List 3: " + str(list3))
