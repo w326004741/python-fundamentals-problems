@@ -1,4 +1,4 @@
-#Write a function that tests whether a string is a palindrome.
+#Write a function that tests whether a string is a palindrome - by Weichen Wang.
 
 
 #define is used to declare the palindrome() function
