@@ -1,4 +1,4 @@
-# FizzBuzz
+# FizzBuzz- by Weichen Wang
 
 
 # Using python range() function to create a list of numbers [0-99] so we can using  a for loop over it

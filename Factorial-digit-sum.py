@@ -1,4 +1,4 @@
-#factorial-digit-sum
+#factorial-digit-sum    -by Weichen Wang
 
 #define is used to declare the factorial() function
 def factorial(n):

@@ -1,4 +1,4 @@
-# Current time
+# Current time -by Weichen Wang
 
 # Import datetime library to use time functions
 import datetime
